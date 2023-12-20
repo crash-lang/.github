@@ -1,6 +1,19 @@
-# Crash Programming Language
-**Official GitHub Organisation.**
+```
+main() {
+    self welcomePrinter = new self("Welcome to Crash - The Programming Language!");
+    
+    welcomePrinter.printWelcome();
+}
 
-This project is heavily under construction.
-
-More information soon.
+class {
+    String welcome;
+    
+    public (String welcome) {
+        this.welcome = welcome;
+    }    
+    
+    public printWelcome() {
+        log(this.welcome);
+    }
+}
+```
