@@ -13,7 +13,7 @@ class {
     }    
     
     public printWelcome() {
-        log(this.welcome);
+        info(this.welcome);
     }
 }
 ```
