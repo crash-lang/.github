@@ -4,9 +4,9 @@ Most Projects are licensed under the [Apache 2.0 License](https://github.com/cra
 
 # Roadmap
 
-- [ ] Crash language-design finished
+- [ ] Crash language-design finished (Currently WIP)
 - [ ] Crash Website and Documentation
-- [ ] Crashc lexer/parser/ast
+- [ ] Crashc lexer/parser/ast (Currently WIP)
 - [ ] LLVM integration
 - [ ] Crasher design
 - [ ] Crasher implementation
